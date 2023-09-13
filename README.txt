@@ -1,7 +1,3 @@
-
-Edward He - 300176553
-Kevin Yu - 300230560
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All Required files are included and all code works.
 To run our project deliverable 2, we used IntelliJ, PostgreSQL, Apache Tomcat
 We did not implement a seperate user and employee side all users are able to update, delete, and insert new values into the respective tables
